@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nawin-raj
 - 👀 I’m interested in Backend development
-- 🌱 I’m currently learning AWS
 - 📫 How to reach me +91 7036188576
 
 <!---
